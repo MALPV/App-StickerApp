@@ -171,3 +171,4 @@ In a recent update, image data version (image_data_version in contents.json) was
 If you update your stickers, add new stickers to a pack, you should update this value.
 
 If your app allows users to add/update/delete stickers from a pack, you should update the value after users have made changes.
+# App-StickerApp
