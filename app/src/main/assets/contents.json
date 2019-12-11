@@ -1,0 +1,116 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Piñesticker",
+      "publisher": "MALPV Studios",
+      "tray_image_file": "LogoStickerApp.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_sticker_toychiquito.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_sticker_toymaschiquito.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_sticker_pajuera.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_sticker_fotobachelet.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_sticker_kmiraivo.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_sticker_coqueto.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_sticker_buscando.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_sticker_krico.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_sticker_asitecomeria.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_sticker_toypiojo.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_sticker_voy.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_sticker_mintiendo.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_sticker_bravown.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_sticker_tu.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_sticker_wenaqlo.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16_sticker_shatoypegao.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_sticker_superobama.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18_sticker_tetirailamision.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19_sticker_kweavo.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20_sticker_yonovinada.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21_sticker_payasoqlo.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22_sticker_callate.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23_sticker_supermarepoto.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24_sticker_seraswn.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    }
+  ]
+}
