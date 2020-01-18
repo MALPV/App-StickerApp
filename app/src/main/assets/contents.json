@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Piñesticker",
+      "name": "Piñera chikito",
       "publisher": "MALPV Studios",
       "tray_image_file": "LogoStickerApp.png",
       "image_data_version":"1",
@@ -23,7 +23,7 @@
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "03_sticker_pajuera.webp",
+          "image_file": "03_sticker_piñera.webp",
           "emojis": ["😆","😂"]
         },
         {
@@ -91,7 +91,7 @@
           "emojis": ["🎉","✨"]
         },
         {
-          "image_file": "20_sticker_yonovinada.webp",
+          "image_file": "20_sticker_piñera.webp",
           "emojis": ["🤮","👎"]
         },
         {
@@ -108,6 +108,116 @@
         },
         {
           "image_file": "24_sticker_seraswn.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Piñericosas",
+      "publisher": "MALPV Studios",
+      "tray_image_file": "LogoStickerApp.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_sticker_piñeraUno.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_sticker_mentholatum.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_sticker_piñeraDos.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_sticker_piñeraTres.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_sticker_tabanCharcha.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_sticker_khe.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_sticker_piñeraCuatro.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_sticker_piñeraJajaja.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_sticker_piñeraCinco.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_sticker_piñeraSeis.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_sticker_piñeraSiete.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_sticker_piñeraOcho.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_sticker_piñera.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_sticker_piñera.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_sticker_piñera.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16_sticker_piñera.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_sticker_piñera.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18_sticker_piñera.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19_sticker_piñera.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20_sticker_piñera.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21_sticker_piñera.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22_sticker_piñera.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23_sticker_piñeraSinTi.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24_sticker_piñeraContigo.webp",
           "emojis": ["📱","😦"]
         }
       ]
