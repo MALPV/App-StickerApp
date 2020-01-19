@@ -115,7 +115,7 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
         banner.loadAd(adRequest);
 
         mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
+        mInterstitialAd.setAdUnitId("ca-app-pub-4709330299973787/1729143126");
         mInterstitialAd.loadAd(adRequest);
     }
 
