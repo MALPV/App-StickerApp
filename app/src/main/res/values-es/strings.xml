@@ -34,7 +34,7 @@
 	<string name="license_agreement">Acuerdo de licencia</string>
 	<!-- Title of the sticker pack list activity page in case the app contains multiple sticker packs, the singular string will be used when there is only one pack in the app -->
 	<plurals name="title_activity_sticker_packs_list">
-		<item quantity="one">Paquete de stickers</item>
-		<item quantity="other">Paquetes de stickers</item>
+		<item quantity="one">Stickers Disponibles</item>
+		<item quantity="other">Stickers Disponibles</item>
 	</plurals>
 </resources>

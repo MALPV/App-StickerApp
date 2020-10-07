@@ -43,9 +43,10 @@ public class StickerPackListActivity extends AddStickerPackActivity {
         stickerPackList = getIntent().getParcelableArrayListExtra(EXTRA_STICKER_PACK_LIST_DATA);
         showStickerPackList(stickerPackList);
         if (getSupportActionBar() != null) {
-            getSupportActionBar().setTitle(getResources().getQuantityString(R.plurals.title_activity_sticker_packs_list, stickerPackList.size()));
-        }
+            String titulo = getResources().getQuantityString(R.plurals.title_activity_sticker_packs_list, stickerPackList.size());
+            getSupportActionBar().setTitle(titulo);
 
+        }
         bannerHome = findViewById(R.id.bannerHome);
 
         //Solicitud de anuncio para mostrar en el banner

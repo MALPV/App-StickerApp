@@ -8,4 +8,6 @@
     <dimen name="sticker_pack_list_item_preview_image_size">50dp</dimen>
     <dimen name="sticker_pack_list_item_preview_image_padding">4dp</dimen>
     <dimen name="sticker_pack_list_item_row_dot_horizontal_padding">4dp</dimen>
+    <dimen name="sticker_pack_details_margin_size">10dp</dimen>
+    <dimen name="sticker_pack_cardview_radius">16dp</dimen>
 </resources>

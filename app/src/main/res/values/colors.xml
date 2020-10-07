@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#D50000</color>
+    <color name="colorPrimary">#9b0000</color>
     <color name="colorPrimaryDark">#9b0000</color>
     <color name="colorAccent">#EBEBEB</color>
     <color name="inactiveAddButtonColor">#B3B3B3</color>
     <color name="infoPageBackgroundColor">#EBEBEB</color>
-    <color name="actionBarArrowColor">@color/colorAccent</color>
+    <color name="actionBarArrowColor">#000000</color>
+    <color name="cardViewColor">#F9F9F9</color>
 </resources>

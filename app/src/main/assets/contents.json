@@ -233,10 +233,6 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_sticker_carteles.webp",
-          "emojis": ["☕","🙂"]
-        },
-        {
           "image_file": "02_sticker_carteles.webp",
           "emojis": ["😄","😀"]
         },
@@ -247,10 +243,6 @@
         {
           "image_file": "04_sticker_carteles.webp",
           "emojis": ["😩","😰"]
-        },
-        {
-          "image_file": "05_sticker_carteles.webp",
-          "emojis": ["😭","💧"]
         },
         {
           "image_file": "06_sticker_carteles.webp",
@@ -287,6 +279,76 @@
         {
           "image_file": "14_sticker_carteles.webp",
           "emojis": ["😡","😠"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Cuarentena Cosas",
+      "publisher": "MALPV Studios",
+      "tray_image_file": "LogoCuarentena.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_sticker_cuarentenacosas.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_sticker_cuarentenacosas.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_sticker_cuarentenacosas.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_sticker_cuarentenacosas.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_sticker_cuarentenacosas.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_sticker_cuarentenacosas.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_sticker_cuarentenacosas.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_sticker_cuarentenacosas.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_sticker_cuarentenacosas.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_sticker_cuarentenacosas.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_sticker_cuarentenacosas.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_sticker_cuarentenacosas.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_sticker_cuarentenacosas.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_sticker_cuarentenacosas.webp",
+          "emojis": ["🌈","😜"]
         }
       ]
     }
